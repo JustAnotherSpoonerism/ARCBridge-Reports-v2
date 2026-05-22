@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260522-190914-hion",
+      "title": "Glozellasaurus",
+      "commanders": [
+        "Glozellasaurus"
+      ],
+      "dateStart": "2026-05-22T18:09:14.000Z",
+      "dateEnd": "2026-05-22T20:23:49.000Z",
+      "dateLabel": "22/05/2026, 19:09:14 - 22/05/2026, 21:23:49",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260522-190914-hion",
+      "summary": {
+        "borderlandsPct": 0.14285714285714285,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 30,
+            "color": "#64748b"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260521-202008-5bw3",
       "title": "Serban No Stab",
       "commanders": [
