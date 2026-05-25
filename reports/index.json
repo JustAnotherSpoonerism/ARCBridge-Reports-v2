@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260525-200324-3bq6",
+      "title": "Princess Donye",
+      "commanders": [
+        "Princess Donye"
+      ],
+      "dateStart": "2026-05-25T19:03:24.000Z",
+      "dateEnd": "2026-05-25T19:59:12.000Z",
+      "dateLabel": "25/05/2026, 20:03:24 - 25/05/2026, 20:59:12",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260525-200324-3bq6",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260522-190914-hion",
       "title": "Glozellasaurus",
       "commanders": [
