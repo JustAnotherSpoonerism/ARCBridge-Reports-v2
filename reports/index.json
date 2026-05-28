@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260528-201116-zop3",
+      "title": "Eternal Beta",
+      "commanders": [
+        "Eternal Beta"
+      ],
+      "dateStart": "2026-05-28T19:11:16.000Z",
+      "dateEnd": "2026-05-28T20:27:06.000Z",
+      "dateLabel": "28/05/2026, 20:11:16 - 28/05/2026, 21:27:06",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260528-201116-zop3",
+      "summary": {
+        "borderlandsPct": 0.9642857142857143,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260525-200324-3bq6",
       "title": "Princess Donye",
       "commanders": [
