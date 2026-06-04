@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260604-195614-imec",
+      "title": "Miss O Kiwiiii",
+      "commanders": [
+        "Miss O Kiwiiii"
+      ],
+      "dateStart": "2026-06-04T18:56:14.000Z",
+      "dateEnd": "2026-06-04T20:23:07.000Z",
+      "dateLabel": "04/06/2026, 19:56:14 - 04/06/2026, 21:23:07",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260604-195614-imec",
+      "summary": {
+        "borderlandsPct": 0.7142857142857143,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260531-192558-eiqc",
       "title": "Eternal Beta",
       "commanders": [
