@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260605-201633-hjmj",
+      "title": "Donye The Chonker",
+      "commanders": [
+        "Donye The Chonker"
+      ],
+      "dateStart": "2026-06-05T19:16:33.000Z",
+      "dateEnd": "2026-06-05T20:02:04.000Z",
+      "dateLabel": "05/06/2026, 20:16:33 - 05/06/2026, 21:02:04",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260605-201633-hjmj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260604-195614-imec",
       "title": "Miss O Kiwiiii",
       "commanders": [
