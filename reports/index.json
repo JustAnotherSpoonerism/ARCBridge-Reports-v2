@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260606-151653-16x8",
+      "title": "Eternal Beta",
+      "commanders": [
+        "Eternal Beta"
+      ],
+      "dateStart": "2026-06-06T14:16:53.000Z",
+      "dateEnd": "2026-06-06T15:12:14.000Z",
+      "dateLabel": "06/06/2026, 15:16:53 - 06/06/2026, 16:12:14",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260606-151653-16x8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260605-201633-hjmj",
       "title": "Donye The Chonker",
       "commanders": [
