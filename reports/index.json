@@ -1,8 +1,31 @@
 {
   "colorPalette": "electric-blue",
-  "glassSurfaces": false,
+  "glassSurfaces": true,
   "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260609-201252-x95y",
+      "title": "Serban No Stab",
+      "commanders": [
+        "Serban No Stab"
+      ],
+      "dateStart": "2026-06-09T19:12:52.000Z",
+      "dateEnd": "2026-06-09T19:48:47.000Z",
+      "dateLabel": "09/06/2026, 20:12:52 - 09/06/2026, 20:48:47",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260609-201252-x95y",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 34,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 43
+      }
+    },
     {
       "id": "20260608-192504-nrb6",
       "title": "Princess Donye",
