@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260610-193558-syqe",
+      "title": "Glozellasaurus",
+      "commanders": [
+        "Glozellasaurus"
+      ],
+      "dateStart": "2026-06-10T18:35:58.000Z",
+      "dateEnd": "2026-06-10T19:47:17.000Z",
+      "dateLabel": "10/06/2026, 19:35:58 - 10/06/2026, 20:47:17",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260610-193558-syqe",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260609-201252-x95y",
       "title": "Serban No Stab",
       "commanders": [
