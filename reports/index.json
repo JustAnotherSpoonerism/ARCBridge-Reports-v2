@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260611-192602-98g5",
+      "title": "Donye The Chonker",
+      "commanders": [
+        "Donye The Chonker"
+      ],
+      "dateStart": "2026-06-11T18:26:02.000Z",
+      "dateEnd": "2026-06-11T19:33:16.000Z",
+      "dateLabel": "11/06/2026, 19:26:02 - 11/06/2026, 20:33:16",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260611-192602-98g5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 23,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260610-193558-syqe",
       "title": "Glozellasaurus",
       "commanders": [
