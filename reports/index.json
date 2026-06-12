@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260612-191019-lp9i",
+      "title": "Domivfz",
+      "commanders": [
+        "Domivfz"
+      ],
+      "dateStart": "2026-06-12T18:10:19.000Z",
+      "dateEnd": "2026-06-12T18:53:58.000Z",
+      "dateLabel": "12/06/2026, 19:10:19 - 12/06/2026, 19:53:58",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260612-191019-lp9i",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 40,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 56
+      }
+    },
+    {
       "id": "20260611-192602-98g5",
       "title": "Donye The Chonker",
       "commanders": [
