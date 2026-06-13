@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260613-204431-h1d5",
+      "title": "Dronalys",
+      "commanders": [
+        "Dronalys"
+      ],
+      "dateStart": "2026-06-13T19:44:31.000Z",
+      "dateEnd": "2026-06-13T20:46:01.000Z",
+      "dateLabel": "13/06/2026, 20:44:31 - 13/06/2026, 21:46:01",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260613-204431-h1d5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260612-191019-lp9i",
       "title": "Domivfz",
       "commanders": [
