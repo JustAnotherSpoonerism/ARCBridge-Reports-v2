@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260617-192516-5e17",
+      "title": "Luminary Lan",
+      "commanders": [
+        "Luminary Lan"
+      ],
+      "dateStart": "2026-06-17T18:25:16.000Z",
+      "dateEnd": "2026-06-17T19:41:38.000Z",
+      "dateLabel": "17/06/2026, 19:25:16 - 17/06/2026, 20:41:38",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260617-192516-5e17",
+      "summary": {
+        "borderlandsPct": 0.5217391304347826,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260615-193409-0noq",
       "title": "Serban No Stab",
       "commanders": [
