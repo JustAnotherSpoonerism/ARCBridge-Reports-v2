@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260620-155934-uv2x",
+      "title": "Dronalys",
+      "commanders": [
+        "Dronalys"
+      ],
+      "dateStart": "2026-06-20T14:59:34.000Z",
+      "dateEnd": "2026-06-20T16:26:17.000Z",
+      "dateLabel": "20/06/2026, 15:59:34 - 20/06/2026, 17:26:17",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260620-155934-uv2x",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260617-192516-5e17",
       "title": "Luminary Lan",
       "commanders": [
