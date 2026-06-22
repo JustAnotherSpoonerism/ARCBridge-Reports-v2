@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260622-194103-2yka",
+      "title": "Princess Donye",
+      "commanders": [
+        "Princess Donye"
+      ],
+      "dateStart": "2026-06-22T18:41:03.000Z",
+      "dateEnd": "2026-06-22T19:31:45.000Z",
+      "dateLabel": "22/06/2026, 19:41:03 - 22/06/2026, 20:31:45",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260622-194103-2yka",
+      "summary": {
+        "borderlandsPct": 0.5833333333333334,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 10,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260620-155934-uv2x",
       "title": "Dronalys",
       "commanders": [
