@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260624-201752-wz3c",
+      "title": "Glozellasaurus",
+      "commanders": [
+        "Glozellasaurus"
+      ],
+      "dateStart": "2026-06-24T19:17:52.000Z",
+      "dateEnd": "2026-06-24T19:53:00.000Z",
+      "dateLabel": "24/06/2026, 20:17:52 - 24/06/2026, 20:53:00",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260624-201752-wz3c",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 31,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260622-194103-2yka",
       "title": "Princess Donye",
       "commanders": [
