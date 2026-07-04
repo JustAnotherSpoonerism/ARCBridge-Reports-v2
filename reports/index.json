@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260704-214902-h7dg",
+      "title": "Serban No Stab",
+      "commanders": [
+        "Serban No Stab"
+      ],
+      "dateStart": "2026-07-04T20:49:02.000Z",
+      "dateEnd": "2026-07-04T21:19:39.000Z",
+      "dateLabel": "04/07/2026, 21:49:02 - 04/07/2026, 22:19:39",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260704-214902-h7dg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260704-212816-eob9",
       "title": "Doctor Serban, Serban No Stab",
       "commanders": [
