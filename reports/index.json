@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260704-212816-eob9",
+      "title": "Doctor Serban, Serban No Stab",
+      "commanders": [
+        "Doctor Serban",
+        "Serban No Stab"
+      ],
+      "dateStart": "2026-07-04T20:28:16.000Z",
+      "dateEnd": "2026-07-04T21:19:39.000Z",
+      "dateLabel": "04/07/2026, 21:28:16 - 04/07/2026, 22:19:39",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260704-212816-eob9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 33,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260703-201148-vw4i",
       "title": "Dronalys",
       "commanders": [
