@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260710-190631-e14z",
+      "title": "Cénter Shock",
+      "commanders": [
+        "Cénter Shock"
+      ],
+      "dateStart": "2026-07-10T18:06:31.000Z",
+      "dateEnd": "2026-07-10T18:56:20.000Z",
+      "dateLabel": "10/07/2026, 19:06:31 - 10/07/2026, 19:56:20",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260710-190631-e14z",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 66
+      }
+    },
+    {
       "id": "20260704-214902-h7dg",
       "title": "Serban No Stab",
       "commanders": [
