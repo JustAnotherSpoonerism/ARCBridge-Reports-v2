@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260720-201931-w7h4",
+      "title": "Wells Goes Brrrr",
+      "commanders": [
+        "Wells Goes Brrrr"
+      ],
+      "dateStart": "2026-07-20T19:19:31.000Z",
+      "dateEnd": "2026-07-20T19:55:22.000Z",
+      "dateLabel": "20/07/2026, 20:19:31 - 20/07/2026, 20:55:22",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260720-201931-w7h4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 40,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260720-201931-lu73",
       "title": "Wells Goes Brrrr",
       "commanders": [
