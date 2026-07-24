@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260724-193223-ehlx",
+      "title": "Perma The Vertigo",
+      "commanders": [
+        "Perma The Vertigo"
+      ],
+      "dateStart": "2026-07-24T18:32:23.000Z",
+      "dateEnd": "2026-07-24T19:19:06.000Z",
+      "dateLabel": "24/07/2026, 19:32:23 - 24/07/2026, 20:19:06",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260724-193223-ehlx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260724-202835-y13z",
       "title": "Pêrmâ",
       "commanders": [
