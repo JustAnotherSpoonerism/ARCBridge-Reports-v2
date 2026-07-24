@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260724-202835-xyly",
+      "title": "Pêrmâ",
+      "commanders": [
+        "Pêrmâ"
+      ],
+      "dateStart": "2026-07-24T19:28:35.000Z",
+      "dateEnd": "2026-07-24T20:10:13.000Z",
+      "dateLabel": "24/07/2026, 20:28:35 - 24/07/2026, 21:10:13",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260724-202835-xyly",
+      "summary": {
+        "borderlandsPct": 0.5588235294117647,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260720-201931-w7h4",
       "title": "Wells Goes Brrrr",
       "commanders": [
