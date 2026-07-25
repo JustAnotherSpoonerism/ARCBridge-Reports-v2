@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260725-201037-pnwy",
+      "title": "Wells Goes Brrrr",
+      "commanders": [
+        "Wells Goes Brrrr"
+      ],
+      "dateStart": "2026-07-25T19:10:37.000Z",
+      "dateEnd": "2026-07-25T20:01:12.000Z",
+      "dateLabel": "25/07/2026, 20:10:37 - 25/07/2026, 21:01:12",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260725-201037-pnwy",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 32,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260724-193223-ehlx",
       "title": "Perma The Vertigo",
       "commanders": [
