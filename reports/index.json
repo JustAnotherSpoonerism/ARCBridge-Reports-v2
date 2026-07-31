@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260731-201129-zcia",
+      "title": "Cénter Shock",
+      "commanders": [
+        "Cénter Shock"
+      ],
+      "guild": {
+        "id": "7448E0E2-0332-EE11-81B7-AD7CCA945DAC",
+        "name": "Notorîous",
+        "tag": "BiG"
+      },
+      "dateStart": "2026-07-31T19:11:29.000Z",
+      "dateEnd": "2026-07-31T20:05:47.000Z",
+      "dateLabel": "31/07/2026, 20:11:29 - 31/07/2026, 21:05:47",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260731-201129-zcia",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 34,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260728-201129-jobd",
       "title": "Wells Goes Brrrr",
       "commanders": [
