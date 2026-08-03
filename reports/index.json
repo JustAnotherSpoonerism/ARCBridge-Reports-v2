@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260803-192650-strf",
+      "title": "Glozellasaurus",
+      "commanders": [
+        "Glozellasaurus"
+      ],
+      "guild": {
+        "id": "7448E0E2-0332-EE11-81B7-AD7CCA945DAC",
+        "name": "Notorîous",
+        "tag": "BiG"
+      },
+      "dateStart": "2026-08-03T18:26:50.000Z",
+      "dateEnd": "2026-08-03T18:57:13.000Z",
+      "dateLabel": "03/08/2026, 19:26:50 - 03/08/2026, 19:57:13",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260803-192650-strf",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260801-193929-3d4m",
       "title": "Skariik",
       "commanders": [
