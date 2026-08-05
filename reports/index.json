@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260805-200442-2x3j",
+      "title": "Lan Firebrand",
+      "commanders": [
+        "Lan Firebrand"
+      ],
+      "guild": {
+        "id": "7448E0E2-0332-EE11-81B7-AD7CCA945DAC",
+        "name": "Notorîous",
+        "tag": "BiG"
+      },
+      "dateStart": "2026-08-05T19:04:42.000Z",
+      "dateEnd": "2026-08-05T19:34:22.000Z",
+      "dateLabel": "05/08/2026, 20:04:42 - 05/08/2026, 20:34:22",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260805-200442-2x3j",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260803-192650-strf",
       "title": "Glozellasaurus",
       "commanders": [
