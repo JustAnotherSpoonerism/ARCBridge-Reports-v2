@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260814-195930-r1ew",
+      "title": "Lan Firebrand",
+      "commanders": [
+        "Lan Firebrand"
+      ],
+      "guild": {
+        "id": "7448E0E2-0332-EE11-81B7-AD7CCA945DAC",
+        "name": "Notorîous",
+        "tag": "BiG"
+      },
+      "dateStart": "2026-08-14T18:59:30.000Z",
+      "dateEnd": "2026-08-14T20:00:02.000Z",
+      "dateLabel": "14/08/2026, 19:59:30 - 14/08/2026, 21:00:02",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260814-195930-r1ew",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 31,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260806-200632-d7ik",
       "title": "Princess Donye",
       "commanders": [
