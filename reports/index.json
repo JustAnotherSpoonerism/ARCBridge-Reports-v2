@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260825-200401-pc88",
+      "title": "Shaman Donye",
+      "commanders": [
+        "Shaman Donye"
+      ],
+      "guild": {
+        "id": "7448E0E2-0332-EE11-81B7-AD7CCA945DAC",
+        "name": "Notorîous",
+        "tag": "BiG"
+      },
+      "dateStart": "2026-08-25T19:04:01.000Z",
+      "dateEnd": "2026-08-25T19:49:29.710Z",
+      "dateLabel": "25/08/2026, 20:04:01 - 25/08/2026, 20:49:29",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260825-200401-pc88",
+      "summary": {
+        "borderlandsPct": 0.696969696969697,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 23,
+            "color": "#22c55e"
+          },
+          {
+            "name": "World vs World",
+            "value": 10,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260815-201105-t4xf",
       "title": "Glozellasaurus",
       "commanders": [
