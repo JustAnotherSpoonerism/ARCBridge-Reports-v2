@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260905-201004-804l",
+      "title": "Clone Goes Brr, Wells Goes Brrrr",
+      "commanders": [
+        "Clone Goes Brr",
+        "Wells Goes Brrrr"
+      ],
+      "guild": {
+        "id": "7448E0E2-0332-EE11-81B7-AD7CCA945DAC",
+        "name": "Notorîous",
+        "tag": "BiG"
+      },
+      "dateStart": "2026-09-05T19:10:04.000Z",
+      "dateEnd": "2026-09-05T20:03:18.758Z",
+      "dateLabel": "05/09/2026, 20:10:04 - 05/09/2026, 21:03:18",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports-v2/?report=20260905-201004-804l",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 19,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260825-200401-pc88",
       "title": "Shaman Donye",
       "commanders": [
